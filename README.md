@@ -28,5 +28,6 @@ https://github.com/user-attachments/assets/bb5f238c-6761-4075-bb81-45dd99e50e79
 Programação: C.<br>
 Hardware: Arduino,Sensores,Placa de Circuito Impresso (PCI). <br>
 Ferramentas de Projeto: Arduino IDE. <br>
+OBS: Código do arduino nas Branches
 
 ![414904949-b3fc8e88-8a22-462c-88de-737f81da48dc](https://github.com/user-attachments/assets/37868248-5934-43b0-a5cd-a03dda4c01b7)
