@@ -7,7 +7,10 @@ O objetivo principal do dispositivo é corrigir e prevenir problemas posturais p
 ### FUNCIONAMENTO
 O colete utiliza um sensor MPU6050 (acelerômetro e giroscópio) para monitorar a inclinação e alinhamento do tronco em tempo real. Caso o usuário adote uma postura inadequada por um período prolongado, o sistema emite um alerta sonoro para lembrá-lo de corrigir sua posição.
 
+
+![colete](https://github.com/user-attachments/assets/37b9c364-47eb-4cff-b3d2-5fd74df9c667)
 ## EM FUNCIONAMENTO
+
 
 
 https://github.com/user-attachments/assets/415c5523-c478-4af2-a551-5cf1bef48308
